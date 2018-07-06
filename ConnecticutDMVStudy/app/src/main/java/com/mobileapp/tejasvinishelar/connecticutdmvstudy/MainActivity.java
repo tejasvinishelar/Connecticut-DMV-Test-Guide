@@ -134,6 +134,9 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.action_settings) {
             return true;
         }
+        else if (id == R.id.action_help) {
+            return true;
+        }
         else if(toggle.onOptionsItemSelected(item)){
             return true;
         }
