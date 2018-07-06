@@ -1,0 +1,96 @@
+{
+"Test2":{
+"q":[{
+"question":"When driving in a construction zone:",
+"options":[
+"slightly increase your speed",
+"expect the unexpected",
+"construction workers must yield to roadway users"
+],
+"answer":"expect the unexpected",
+"qid":"1"
+},
+{
+"question":"The driver of an emergency vehicle that uses lights and a siren can legally:",
+"options":[
+"exceed the speed limit",
+"pass red lights",
+"All of the above"
+],
+"answer":"All of the above",
+"qid":"2"
+},{
+"question":"If there are no reduced speed limit signs clearly posted within a work zone:",
+"options":[
+"you should drive faster than the posted speed limit",
+"you should drive slower than the posted speed limit",
+"you should obey the normal speed limit"
+],
+"answer":"you should drive slower than the posted speed limit",
+"qid":"3"
+},{
+"question":"When approaching a construction area, drivers should:",
+"options":[
+"honk their horn several times to alert individuals working in the area of their presence",
+"increase their speed to get out of the way quickly",
+"slow down, stop all wireless telephone communications and yield the right-of-way"
+],
+"answer":"slow down, stop all wireless telephone communications and yield the right-of-way",
+"qid":"4"
+},{
+"question":"If there are no reduced speed limit signs clearly posted within a work zone:",
+"options":[
+"you should drive faster than the posted speed limit",
+"you should drive slower than the posted speed limit",
+"you should obey the normal speed limit"
+],
+"answer":"you should drive slower than the posted speed limit",
+"qid":"5"
+},{
+"question":"Where must a pedestrian walk when there are no sidewalks?",
+"options":[
+"On the side of the road, in the same direction of traffic",
+"On the side of the road, facing the traffic",
+"In the middle of the road, facing oncoming traffic"
+],
+"answer":"On the side of the road, facing the traffic",
+"qid":"6"
+},{
+"question":"Where are yield signs usually placed?",
+"options":[
+"Where auxiliary roads lead into major roads",
+"Where major roads lead into auxiliary roads",
+"At intersections, if there is no marked stop line"
+],
+"answer":"Where auxiliary roads lead into major roads",
+"qid":"7"
+},{
+"question":"Motorcycles, scooters, and mopeds are not easy to see, therefore you should",
+"options":[
+"slow down when driving",
+"make constant visual checks",
+"share a lane with motorcycles"
+],
+"answer":"make constant visual checks",
+"qid":"8"
+},{
+"question":"If there are no reduced speed limit signs clearly posted within a work zone:",
+"options":[
+"you should drive faster than the posted speed limit",
+"you should drive slower than the posted speed limit",
+"you should obey the normal speed limit"
+],
+"answer":"you should drive slower than the posted speed limit",
+"qid":"9"
+},{
+"question":"Unlike passenger cars, trucks have blind spots:",
+"options":[
+"on the front",
+"on the right",
+"directly behind them"
+],
+"answer":"directly behind them",
+"qid":"10"
+}]
+}
+}

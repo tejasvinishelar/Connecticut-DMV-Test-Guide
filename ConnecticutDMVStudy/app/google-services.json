@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "80578161376",
+    "firebase_url": "https://connecticutdmvstudy.firebaseio.com",
+    "project_id": "connecticutdmvstudy",
+    "storage_bucket": "connecticutdmvstudy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80578161376:android:22145d8dda84d042",
+        "android_client_info": {
+          "package_name": "com.mobileapp.tejasvinishelar.connecticutdmvstudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80578161376-kddir7a6pqc2utc2r2es4j3dppd889kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobileapp.tejasvinishelar.connecticutdmvstudy",
+            "certificate_hash": "e986ac6ece3634e65d1eff057cc445425d44286c"
+          }
+        },
+        {
+          "client_id": "80578161376-ddj8bq4cnmv6mta2b0lm2ikfpn3fgt9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj9CfRT7VKG9EzyH2999M6Tf7ButrlIag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80578161376-ddj8bq4cnmv6mta2b0lm2ikfpn3fgt9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

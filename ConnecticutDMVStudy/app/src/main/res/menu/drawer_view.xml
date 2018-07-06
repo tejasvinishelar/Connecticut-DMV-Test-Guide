@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/test1"
+            android:icon="@drawable/queans"
+            android:title="Test 1"
+
+            />
+        <item
+            android:id="@+id/test2"
+            android:icon="@drawable/queans"
+            android:title="Test 2"
+            />
+
+        <item
+            android:id="@+id/dmvmanual"
+            android:icon="@drawable/queans"
+            android:title="DMV Manual"
+            />
+        <item
+            android:id="@+id/lang"
+            android:icon="@drawable/language"
+            android:title="Change Language"
+            />
+    </group>
+</menu>
